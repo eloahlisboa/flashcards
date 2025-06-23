@@ -57,3 +57,15 @@ criarCartao (
 'Quais são os princípios básicos da programação?',
 'Lógica de programação, algoritmos, variáveis, estruturas de dados, e a própria linguagem de programação.'
 )
+
+criarCartao (
+'Sociologia',
+'O que é fato social para Émile Durkheim?',
+'São maneiras coletivas de agir, pensar e sentir que exercem coerção sobre os indivíduos, sendo exteriores e gerais.'
+)
+
+criarCartao (
+'Biologia',
+'O que é fotossíntese e qual sua importância para a vida na Terra?',
+'É o processo pelo qual plantas, algas e algumas bactérias convertem a energia da luz solar em energia química, armazenada em moléculas orgânicas como a glicose.'
+)
